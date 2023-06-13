@@ -1,0 +1,17 @@
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.deps.json
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.dll
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\EticaretAPI.Infrastructure.pdb
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.csproj.CopyComplete
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.dll
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\refint\EticaretAPI.Infrastructure.dll
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\EticaretAPI.Infrastructure.pdb
+C:\Users\mehme\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrastructure\Infrastructure\obj\Debug\net6.0\ref\EticaretAPI.Infrastructure.dll
